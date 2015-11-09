@@ -1,3 +1,4 @@
+//В буфер кроме координатпомещаются и цвета для каждой из вершин, но они пока не используются
 #include <GL\glew.h>
 #include <GL\freeglut.h>
 #include <iostream>
