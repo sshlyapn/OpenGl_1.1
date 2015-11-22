@@ -8,3 +8,7 @@ http://triplepointfive.github.io/ogltutor/
 http://www.opengl-tutorial.org/ru/
 http://opengl-tutorial.blogspot.ru/
 http://www.gamedev.ru/code/articles/GLSL
+
+
+Timing:
+http://live13.livejournal.com/469940.html
