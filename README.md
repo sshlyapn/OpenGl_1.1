@@ -12,3 +12,8 @@ http://www.gamedev.ru/code/articles/GLSL
 
 Timing:
 http://live13.livejournal.com/469940.html
+http://habrahabr.ru/post/136878/
+
+Move:
+http://habrahabr.ru/post/164489/
+http://habrahabr.ru/post/164489/
